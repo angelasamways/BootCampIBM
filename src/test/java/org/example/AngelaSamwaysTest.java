@@ -1,5 +1,6 @@
 package org.example;
 
+import br.com.angela.exercicio.AngelaSamways;
 import org.junit.Test;
 
 import java.util.Arrays;
