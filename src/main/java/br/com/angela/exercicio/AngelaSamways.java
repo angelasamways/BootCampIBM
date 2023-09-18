@@ -1,5 +1,7 @@
 package br.com.angela.exercicio;
 
+import com.google.gson.JsonObject;
+
 import java.util.*;
 
 public class AngelaSamways {
@@ -76,6 +78,7 @@ public class AngelaSamways {
         );
 
         Map<String, List<String>> times = organizarTimes(jogadores);
+
 
         int i = 1;
         for (Map.Entry<String, List<String>> entry : times.entrySet()) {

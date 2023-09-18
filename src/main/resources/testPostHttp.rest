@@ -1,0 +1,92 @@
+    ### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Letícia Izidoro"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Duda Sampaio"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Ary Borges"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Andressa Alves"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Bia Zaneratto"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Gabi Nunes"}
+### Send PO}T request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Aline Gomes"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Tamires Britto"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Rafaelle Souza"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Geyse Ferreira"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Adriana Silva"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Luana Bertolucci"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Lauren Leal"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Antonia Silva"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Luciana Dionízio"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Tainara Silva"}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{
+  "nome": "Ana Vitoria de Araújo"
+}
+### Send POST request with json body
+POST http://localhost:4200/jogador
+Content-Type: application/json
+
+{"nome": "Cristiane Silva"}

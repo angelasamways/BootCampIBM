@@ -8,7 +8,5 @@ import java.util.Set;
 @Getter
 @Setter
 public class JogadorEntity {
-
-    private Set<String> nomeJogador;
-
+    private String nome;
 }

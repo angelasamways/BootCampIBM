@@ -1,4 +1,4 @@
 package br.com.angela.controllers;
 
-public class TimeGetController {
+public class TimeController {
 }

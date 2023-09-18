@@ -1,7 +1,0 @@
-### Send POST request with json body
-POST http://localhost:4200/jogador
-Content-Type: application/json
-
-{
-  "nome": "Angela Samways"
-}

@@ -1,0 +1,6 @@
+###
+GET http://localhost:4200/times
+
+###
+DELETE http://localhost:4200/jogador/all
+
