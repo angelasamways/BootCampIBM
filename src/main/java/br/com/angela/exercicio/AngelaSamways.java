@@ -1,7 +1,5 @@
 package br.com.angela.exercicio;
 
-import com.google.gson.JsonObject;
-
 import java.util.*;
 
 public class AngelaSamways {

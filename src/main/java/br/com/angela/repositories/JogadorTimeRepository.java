@@ -1,13 +1,12 @@
 package br.com.angela.repositories;
 
-import br.com.angela.entities.JogadorEntity;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashSet;
 import java.util.Set;
 
 @Repository
-public class JogadoresRepository {
+public class JogadorTimeRepository {
 
     Set<String> jogadores = new HashSet<>();
 

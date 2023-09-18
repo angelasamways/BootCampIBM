@@ -1,13 +1,11 @@
-package org.example;
+package br.com.angela.exercicio;
 
-import br.com.angela.exercicio.AngelaSamways;
 import org.junit.Test;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AngelaSamwaysTest {
     @Test

@@ -3,10 +3,8 @@ package br.com.angela.entities;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.Set;
-
 @Getter
 @Setter
-public class JogadorEntity {
+public class JogadorTimeEntity {
     private String nome;
 }
